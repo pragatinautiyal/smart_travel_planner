@@ -1,0 +1,154 @@
+country_code,region_name,iata,icao,airport,latitude,longitude
+IN,Andaman and Nicobar Islands,CBD,VOCX,Car Nicobar Air Force Base,9.15251,92.8196
+IN,Andaman and Nicobar Islands,IXZ,VOPB,Veer Savarkar International Airport (Port Blair Airport),11.6412,92.7297
+IN,Andhra Pradesh,BEK,VIBY,Bareilly Airport,28.4221,79.4508
+IN,Andhra Pradesh,CDP,VOCP,Kadapa Airport,14.51,78.7728
+IN,Andhra Pradesh,KJB,VOKU,Kurnool Airport,15.7132,78.1612
+IN,Andhra Pradesh,PUT,VOPN,Sri Sathya Sai Airport,14.1493,77.7911
+IN,Andhra Pradesh,RJA,VORY,Rajahmundry Airport,17.1104,81.8182
+IN,Andhra Pradesh,TIR,VOTP,Tirupati Airport,13.6325,79.5433
+IN,Andhra Pradesh,VGA,VOBZ,Vijayawada Airport,16.5304,80.7968
+IN,Andhra Pradesh,VTZ,VEVZ,Visakhapatnam Airport,17.7212,83.2245
+IN,Arunachal Pradesh,IXT,VEPG,Pasighat Airport,28.0661,95.3356
+IN,Arunachal Pradesh,IXV,VEAN,Along Airport,28.1753,94.802
+IN,Arunachal Pradesh,TEI,VETJ,Tezu Airport,27.9412,96.1344
+IN,Arunachal Pradesh,ZER,VEZO,Zero Airport (Ziro Airport),27.5883,93.8281
+IN,Assam,DEP,VEDZ,Daporijo Airport,27.9855,94.2228
+IN,Assam,DIB,VEMN,Dibrugarh Airport (Mohanbari Airport),27.4839,95.0169
+IN,Assam,GAU,VEGT,Lokpriya Gopinath Bordoloi International Airport,26.1061,91.5859
+IN,Assam,IXI,VELR,Lilabari Airport,27.2955,94.0976
+IN,Assam,IXN,VEKW,Khowai Airport,24.0619,91.6039
+IN,Assam,IXQ,VEKM,Kamalpur Airport,24.1317,91.8142
+IN,Assam,IXS,VEKU,Silchar Airport (Kumbhirgram Air Force Base),24.9129,92.9787
+IN,Assam,JRH,VEJT,Jorhat Airport (Rowriah Airport),26.7315,94.1755
+IN,Assam,RUP,VERU,Rupsi Airport,26.1397,89.91
+IN,Assam,TEZ,VETZ,Tezpur Airport,26.7091,92.7847
+IN,Bihar,DBR,VEDH,Darbhanga Airport,26.1947,85.9175
+IN,Bihar,GAY,VEGY,Gaya Airport (Bodhgaya Airport),24.7443,84.9512
+IN,Bihar,MZU,VEMZ,Muzaffarpur Airport,26.1191,85.3137
+IN,Bihar,PAT,VEPT,Lok Nayak Jayaprakash Airport,25.5913,85.088
+IN,Chandigarh,IXC,VICG,Chandigarh Airport,30.6735,76.7885
+IN,Chhattisgarh,JGB,,Jagdalpur Airport,19.0743,82.0368
+IN,Chhattisgarh,PAB,VEBU,Bilaspur Airport,21.9884,82.111
+IN,Chhattisgarh,RPR,VARP,Swami Vivekananda Airport,21.1804,81.7388
+IN,Daman and Diu,DIU,,Diu Airport,20.7131,70.9211
+IN,Daman and Diu,NMB,VADN,Daman Airport,20.4344,72.8432
+IN,Delhi,DEL,VIDP,Indira Gandhi International Airport,28.5665,77.1031
+IN,Goa,GOI,VOGO,Goa International Airport (Dabolim Airport),15.3808,73.8314
+IN,Goa,GOX,VOGA,Manohar International Airport (Goa),15.7312,73.8666
+IN,Gujarat,AMD,VAAH,Sardar Vallabhbhai Patel International Airport,23.0772,72.6347
+IN,Gujarat,BDQ,VABO,Vadodara Airport (Civil Airport Harni),22.3362,73.2263
+IN,Gujarat,BHJ,VABJ,Bhuj Airport / Bhuj Rudra Mata Air Force Base,23.2878,69.6702
+IN,Gujarat,BHU,VABV,Bhavnagar Airport,21.7522,72.1852
+IN,Gujarat,HSR,VAHS,Rajkot International Airport,22.3813,71.0319
+IN,Gujarat,IXK,VAKS,Keshod Airport,21.3171,70.2704
+IN,Gujarat,IXY,VAKE,Kandla Airport (Gandhidham Airport),23.1127,70.1003
+IN,Gujarat,JGA,VAJM,Jamnagar Airport (Govardhanpur Airport),22.4655,70.0126
+IN,Gujarat,PBD,VAPR,Porbandar Airport,21.6487,69.6572
+IN,Gujarat,RAJ,VARK,Rajkot Airport,22.3092,70.7795
+IN,Gujarat,STV,VASU,Surat Airport,21.1141,72.7418
+IN,Haryana,HSS,VIHR,Hisar Airport,29.1794,75.7553
+IN,Himachal Pradesh,DHM,VIGG,Gaggal Airport,32.1651,76.2634
+IN,Himachal Pradesh,KUU,VIBR,Bhuntar Airport (Kullu Manali Airport),31.8767,77.1544
+IN,Himachal Pradesh,SLV,VISM,Shimla Airport,31.0818,77.068
+IN,Jammu and Kashmir,IXJ,VIJU,Jammu Airport (Satwari Airport),32.6891,74.8374
+IN,Jammu and Kashmir,IXL,VILH,Kushok Bakula Rimpochee Airport,34.1359,77.5465
+IN,Jammu and Kashmir,RJI,,Rajauri Airport,33.3779,74.3152
+IN,Jammu and Kashmir,SXR,VISR,Sheikh ul Alam International Airport,33.9871,74.7742
+IN,Jharkhand,DBD,VEDB,Dhanbad Airport,23.834,86.4253
+IN,Jharkhand,DGH,VEDO,Deoghar Airport,24.4433,86.7065
+IN,Jharkhand,IXR,VERC,Birsa Munda Airport,23.3143,85.3217
+IN,Jharkhand,IXW,VEJS,Sonari Airport,22.8132,86.1688
+IN,Karnataka,BEP,VOBI,Bellary Airport,15.1628,76.8828
+IN,Karnataka,BLR,VOBL,Kempegowda International Airport,13.1979,77.7063
+IN,Karnataka,HBX,VAHB,Hubli Airport,15.3617,75.0849
+IN,Karnataka,IXE,VOML,Mangalore Airport,12.9613,74.8901
+IN,Karnataka,IXG,VABM,Belgaum Airport,15.8593,74.6183
+IN,Karnataka,MYQ,VOMY,Mysore Airport (Mandakalli Airport),12.23,76.6558
+IN,Karnataka,RQY,,Shivamogga Rashtrakavi Kuvempu Airport,13.8577,75.6054
+IN,Karnataka,VDY,VOJV,Vidyanagar Airport (Jindal Airport),15.175,76.6349
+IN,Kerala,CCJ,VOCL,Calicut International Airport,11.1368,75.9553
+IN,Kerala,CNN,VOKN,Kannur International Airport,11.9186,75.5472
+IN,Kerala,COK,VOCI,Cochin International Airport (Nedumbassery Airport),10.152,76.4019
+IN,Kerala,TRV,VOTV,Trivandrum International Airport,8.48212,76.9201
+IN,Lakshadweep,AGX,VOAT,Agatti Aerodrome,10.8237,72.176
+IN,Madhya Pradesh,BHO,VABP,Raja Bhoj Airport,23.2875,77.3374
+IN,Madhya Pradesh,GUX,VAGN,Guna Airport,24.6547,77.3473
+IN,Madhya Pradesh,GWL,VIGR,Rajmata Vijaya Raje Scindia Airport (Gwalior Airport),26.2933,78.2278
+IN,Madhya Pradesh,HJR,VAKJ,Civil Aerodrome Khajuraho,24.8172,79.9186
+IN,Madhya Pradesh,IDR,VAID,Devi Ahilyabai Holkar International Airport,22.7218,75.8011
+IN,Madhya Pradesh,JLR,VAJB,Jabalpur Airport (Dumna Airport),23.1778,80.052
+IN,Madhya Pradesh,REW,,Churhata Airport,24.5034,81.2203
+IN,Madhya Pradesh,TNI,VIST,Satna Airport,24.5623,80.8549
+IN,Maharashtra,AKD,VAAK,Akola Airport,20.699,77.0586
+IN,Maharashtra,BOM,VABB,Chhatrapati Shivaji International Airport,19.0887,72.8679
+IN,Maharashtra,GDB,,Birsi Gondia Airport,21.522,80.2907
+IN,Maharashtra,ISK,VAOZ,Nashik Airport,20.1191,73.9129
+IN,Maharashtra,IXU,VAAU,Aurangabad Airport (Chikkalthana Airport),19.8627,75.3981
+IN,Maharashtra,JLG,VAJL,Jalgaon Airport,20.9614,75.6192
+IN,Maharashtra,KLH,VAKP,Kolhapur Airport,16.6647,74.2894
+IN,Maharashtra,LTU,VALT,Latur Airport,18.4115,76.4647
+IN,Maharashtra,NAG,VANP,Dr. Babasaheb Ambedkar International Airport,21.0922,79.0472
+IN,Maharashtra,NDC,VAND,Shri Guru Gobind Singh Ji Airport,19.1833,77.3167
+IN,Maharashtra,PNQ,VAPO,Pune Airport,18.5821,73.9197
+IN,Maharashtra,RTC,VARG,Ratnagiri Airport,17.0136,73.3278
+IN,Maharashtra,SAG,,Shirdi Airport,19.6886,74.3789
+IN,Maharashtra,SDW,,Sindhudurg Airport,15.9989,73.5342
+IN,Maharashtra,SSE,VASL,Solapur Airport,17.628,75.9348
+IN,Manipur,IMF,VEIM,Imphal International Airport (Tulihal Airport),24.76,93.8967
+IN,Meghalaya,SHL,VEBI,Shillong Airport (Barapani Airport),25.7036,91.9787
+IN,Mizoram,AJL,VELP,Lengpui Airport,23.8406,92.6197
+IN,Nagaland,DMU,VEMR,Dimapur Airport,25.8839,93.7711
+IN,Odisha,BBI,VEBS,Biju Patnaik International Airport,20.2444,85.8178
+IN,Odisha,JRG,VEJH,Veer Surendra Sai Jharsuguda Airport,21.9159,84.0464
+IN,Odisha,JSA,VIJR,Jaisalmer Airport,26.8887,70.865
+IN,Odisha,PYB,VEJP,Jeypore Airport,18.88,82.552
+IN,Odisha,RRK,VERK,Rourkela Airport,22.2567,84.8146
+IN,Odisha,UKE,VEUK,Utkela Airport,20.0976,83.1829
+IN,Puducherry,PNY,VOPC,Puducherry Airport,11.968,79.812
+IN,Punjab,AIP,VIAX,Adampur Airport,31.4331,75.7606
+IN,Punjab,ATQ,VIAR,Sri Guru Ram Dass Jee International Airport,31.7096,74.7973
+IN,Punjab,BUP,VIBT,Bathinda Airport (Bhisiana Air Force Station),30.2701,74.7558
+IN,Punjab,IXP,VIPK,Pathankot Airport,32.2336,75.6344
+IN,Punjab,LUH,VILD,Sahnewal Airport (Ludhiana Airport),30.8547,75.9526
+IN,Rajasthan,BKB,VIBK,Nal Airport,28.0706,73.2072
+IN,Rajasthan,JAI,VIJP,Jaipur International Airport,26.8242,75.8122
+IN,Rajasthan,JDH,VIJO,Jodhpur Airport,26.2511,73.0489
+IN,Rajasthan,KQH,VIKG,Ajmer Kishangarh Airport,26.6015,74.8141
+IN,Rajasthan,KTU,VIKO,Kota Airport,25.1602,75.8456
+IN,Rajasthan,UDR,VAUD,Maharana Pratap Airport,24.6177,73.8961
+IN,Sikkim,PYG,,Pakyong Airport,27.2266,88.5875
+IN,Tamil Nadu,CJB,VOCB,Coimbatore International Airport,11.03,77.0434
+IN,Tamil Nadu,IXM,VOMD,Madurai Airport,9.83451,78.0934
+IN,Tamil Nadu,MAA,VOMM,Chennai International Airport,12.99,80.1693
+IN,Tamil Nadu,NVY,VONV,Neyveli Airport,11.613,79.5274
+IN,Tamil Nadu,SXV,VOSM,Salem Airport,11.7833,78.0656
+IN,Tamil Nadu,TCR,VOTK,Tuticorin Airport,8.72424,78.0258
+IN,Tamil Nadu,TJV,VOTJ,Thanjavur Air Force Station,10.7224,79.1016
+IN,Tamil Nadu,TRZ,VOTR,Tiruchirappalli International Airport,10.7654,78.7097
+IN,Telangana,BPM,VOHY,Begumpet Airport,17.4531,78.4676
+IN,Telangana,HYD,VOHS,Rajiv Gandhi International Airport,17.2313,78.4299
+IN,Telangana,RMD,VORG,Ramagundam Airport (Basanth Nagar Airport),18.701,79.3923
+IN,Telangana,WGC,VOWA,Warangal Airport,17.9144,79.6022
+IN,Tripura,IXA,VEAT,Agartala Airport (Singerbhil Airport),23.887,91.2404
+IN,Tripura,IXH,VEKR,Kailashahar Airport,24.3082,92.0072
+IN,Uttar Pradesh,AGR,VIAG,Agra Airport,27.1558,77.9609
+IN,Uttar Pradesh,AYJ,,Ayodhya Faizabad Airport,26.7474,82.1505
+IN,Uttar Pradesh,AZH,,Azamgarh Airport,26.1615,83.112
+IN,Uttar Pradesh,CWK,,Chitrakoot Airport,25.169,80.9362
+IN,Uttar Pradesh,GOP,VEGK,Gorakhpur Airport,26.7397,83.4497
+IN,Uttar Pradesh,HDO,VIDX,Ghaziabad Hindon Airport,28.705,77.342
+IN,Uttar Pradesh,HRH,,Aligarh Airport,27.8588,78.1486
+IN,Uttar Pradesh,IXD,VIAL,Allahabad Airport (Bamrauli Air Force Base),25.4401,81.7339
+IN,Uttar Pradesh,KNU,VIKA,Kanpur Airport (Chakeri Air Force Station),26.4043,80.4101
+IN,Uttar Pradesh,LKO,VILK,Chaudhary Charan Singh International Airport,26.7606,80.8893
+IN,Uttar Pradesh,VNS,VEBN,Lal Bahadur Shastri Airport,25.4524,82.8593
+IN,Uttar Pradesh,VSV,,Shravasti Airport,27.5023,82.0265
+IN,Uttarakhand,DED,VIDN,Jolly Grant Airport,30.1897,78.1803
+IN,Uttarakhand,PGH,VIPT,Pantnagar Airport,29.0334,79.4737
+IN,West Bengal,CCU,VECC,Netaji Subhas Chandra Bose International Airport,22.6547,88.4467
+IN,West Bengal,COH,VECO,Cooch Behar Airport,26.3305,89.4672
+IN,West Bengal,IXB,VEBD,Bagdogra Airport,26.6812,88.3286
+IN,West Bengal,LDA,VEMH,Malda Airport,25.033,88.133
+IN,West Bengal,RDP,VEDG,Kazi Nazrul Islam Airport,23.6225,87.243
+IN,West Bengal,RGH,VEBG,Balurghat Airport,25.2617,88.7956

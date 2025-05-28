@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root[data-theme='light'] {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+:root[data-theme='dark'] {
+  --bg-color: #121212;
+  --text-color:#ffffff;
+}
+
+body {
+  background-color: var(--bg-color);
+  align-items: center;
+  color: var(--text-color);
+  font-family: sans-serif;
+  text-align: center;
+  transition: 0.4s ease;
+  padding-top: 100px;
+}
+
+.theme-switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.theme-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  background-color: #ccc;
+  transition: 0.4s;
+  border-radius: 34px;
+  width: 100%;
+  height: 100%;
+}
+
+.slider:before {
+  content: "";
+  position: absolute;
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #0fbcf9;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+
+.slider:after {
+  content: "🌙";
+  position: absolute;
+  left: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  opacity: 1;
+  transition: 0.4s;
+}
+
+input:checked + .slider:after {
+  content: "☀️";
+  left: 32px;
+  top: 16px;
+}
+
+/* === Headline === */
+.container h1 {
+  font-size: 36px;
+  color: #eb225e;
+  margin: 50px 0 30px 30px;
+}
+
+/* === Form Container === */
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.flight-form {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 15px;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 0 8px 20px rgba(44, 134, 231, 0.671);
+}
+
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+input, select {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+/* === Button === */
+button {
+  width: 100%;
+  padding: 14px;
+  background-color: #007BFF;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+#output {
+  background-color: rgba(0, 123, 255, 0.05);
+  border-left: 6px solid #007BFF;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  border-radius: 8px;
+  font-size: 18px;
+  text-align: left;
+  color: var(--text-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+#output h3 {
+  margin-bottom: 10px;
+  color: #eb225e;
+}
+#map-container {
+  max-width: 900px;
+  width: 100%;
+  margin: 40px auto;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(19, 77, 214, 0.799);
+}
+
+#map {
+  height: 400px;
+  border-radius: 10px;
+}
+
+/* === Dark Theme === 
+body.dark {
+  background-color: #121212;
+  color: #eee;
+}
+
+body.dark .flight-form {
+  background-color: rgba(40, 40, 40, 0.95);
+}
+
+body.dark input,
+body.dark select {
+  background-color: #2a2a2a;
+  color: #eee;
+  border: 1px solid #444;
+}
+
+body.dark button {
+  background-color: #2196f3;
+}
+*/

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flight Booking</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    #map { height: 80vh; width: 100%; margin-top: 20px;  }
+  </style>
+</head>
+<body>
+  <label class="theme-switch">
+    <input type="checkbox" id="themeToggle">
+    <span class="slider"></span>
+  </label>
+
+  <!-- Headline Section -->
+  <div class="container">
+    <h1>BOOK YOUR<br>FLIGHT TODAY</h1>
+  </div>
+
+  <!-- Flight Form -->
+<div class="container2">
+  <form class="flight-form" id="flightForm">
+  <div class="form-row">
+    <input type="text" id="source" placeholder="Flying from" required />
+    <input type="text" id="destination" placeholder="Flying to" required />
+  </div>
+
+  <div class="form-row">
+    <input type="date" id="date" placeholder="Departing" required />
+  </div>
+
+  <div class="form-row">
+    <input type="number" id="adults" min="1" placeholder="Adults (18+)" />
+    <input type="number" id="children" min="0" placeholder="Children (0-17)" />
+    <select id="class">
+      <option value="economy">Economy class</option>
+      <option value="business">Business class</option>
+      <option value="first">First class</option>
+    </select>
+  </div>
+
+  <!-- Route Preference Section -->
+      <div class="form-row">
+        <select name="filter">
+          <option value="minimum_time">Minimum Time</option>
+          <option value="minimum_cost">Minimum Cost</option>
+          <option value="minimum_stops">Minimum Stops</option>
+        </select>
+      </div>
+
+  <button type="submit">SHOW FLIGHTS</button>
+</form>
+</div>
+
+<!-- Result Display -->
+<div id="output" style="margin-top: 20px;"></div>
+<div id="map-container">
+  <div id="map"></div>
+</div>
+
+  <script src="{{ url_for('static', filename='logic.js') }}"></script>
+<div id="legend">
+  <span style="color: red;">&#9632;</span> Optimal Path
+  <span style="color: gray;">&#9632;</span> Alternative Path(s)
+</div>
+
+</body>
+</html>
